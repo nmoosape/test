@@ -1,2 +1,2 @@
 # test
-test repository for the git command demonstration
+testng repository for the git command demonstration
